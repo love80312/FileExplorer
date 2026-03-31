@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -118,833 +118,833 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AddColumn" xml:space="preserve">
-    <value>Add Column</value>
+    <value>新增欄位</value>
   </data>
   <data name="AddRemoveMenuItems" xml:space="preserve">
-    <value>Add / Remove Menu Items</value>
+    <value>新增 / 移除功能表項目</value>
   </data>
   <data name="Application" xml:space="preserve">
-    <value>Application</value>
+    <value>應用程式</value>
   </data>
   <data name="ApplicationError" xml:space="preserve">
-    <value>Application Error</value>
+    <value>應用程式錯誤</value>
   </data>
   <data name="ApplicationErrorOccured" xml:space="preserve">
-    <value>An application error has occured.</value>
+    <value>發生應用程式錯誤。</value>
   </data>
   <data name="BackToDefault" xml:space="preserve">
-    <value>Back To Default</value>
+    <value>回到預設值</value>
   </data>
   <data name="Backward" xml:space="preserve">
-    <value>Back to '{0}'</value>
+    <value>返回至「{0}」</value>
   </data>
   <data name="BestFitAllColumns" xml:space="preserve">
-    <value>Best Fit All Columns</value>
+    <value>最適大小 (所有欄位)</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>取消</value>
   </data>
   <data name="Clipboard" xml:space="preserve">
-    <value>Clipboard</value>
+    <value>剪貼簿</value>
   </data>
   <data name="ConfirmCopy" xml:space="preserve">
-    <value>Confirm Copy</value>
+    <value>確認複製</value>
   </data>
   <data name="ConfirmCopyMessage" xml:space="preserve">
-    <value>Do you want to copy '{0}' to '{1}' ?</value>
+    <value>您要將「{0}」複製到「{1}」嗎？</value>
   </data>
   <data name="ConfirmMove" xml:space="preserve">
-    <value>Confirm Move</value>
+    <value>確認移動</value>
   </data>
   <data name="ConfirmMoveMessage" xml:space="preserve">
-    <value>Do you want to move '{0}' to '{1}' ?</value>
+    <value>您要將「{0}」移動到「{1}」嗎？</value>
   </data>
   <data name="ConfirmMultipleCopy" xml:space="preserve">
-    <value>Do you want to copy selected objects to '{0}' ?</value>
+    <value>您要將選取的物件複製到「{0}」嗎？</value>
   </data>
   <data name="ConfirmMultipleMove" xml:space="preserve">
-    <value>Do you want to move selected objects to '{0}' ?</value>
+    <value>您要將選取的物件移動到「{0}」嗎？</value>
   </data>
   <data name="Copy" xml:space="preserve">
-    <value>Copy</value>
+    <value>複製</value>
   </data>
   <data name="CopyPath" xml:space="preserve">
-    <value>Copy Path</value>
+    <value>複製路徑</value>
   </data>
   <data name="CopyTo" xml:space="preserve">
-    <value>Copy To</value>
+    <value>複製至</value>
   </data>
   <data name="CustomColumn" xml:space="preserve">
-    <value>Custom Column</value>
+    <value>自訂欄位</value>
   </data>
   <data name="Cut" xml:space="preserve">
-    <value>Cut</value>
+    <value>剪下</value>
   </data>
   <data name="DateAccessed" xml:space="preserve">
-    <value>Date Accessed</value>
+    <value>存取日期</value>
   </data>
   <data name="DateCreated" xml:space="preserve">
-    <value>Date Created</value>
+    <value>建立日期</value>
   </data>
   <data name="DateModified" xml:space="preserve">
-    <value>Date Modified</value>
+    <value>修改日期</value>
   </data>
   <data name="Delete" xml:space="preserve">
-    <value>Delete</value>
+    <value>刪除</value>
   </data>
   <data name="Details" xml:space="preserve">
-    <value>Details</value>
+    <value>詳細資料</value>
   </data>
   <data name="DetailsPane" xml:space="preserve">
-    <value>Details Pane</value>
+    <value>詳細資料窗格</value>
   </data>
   <data name="DuplicateFileName" xml:space="preserve">
-    <value>Duplicate File Name</value>
+    <value>檔案名稱重複</value>
   </data>
   <data name="DuplicateFileNameMessage" xml:space="preserve">
-    <value>Some names were assigned to more than one file.</value>
+    <value>部分名稱已被指派給多個檔案。</value>
   </data>
   <data name="EditCustomColumn" xml:space="preserve">
-    <value>Edit Custom Column</value>
+    <value>編輯自訂欄位</value>
   </data>
   <data name="EmptyFiles" xml:space="preserve">
-    <value>Folders &amp; Empty Files</value>
+    <value>資料夾與空檔案</value>
   </data>
   <data name="Extension" xml:space="preserve">
-    <value>Extension</value>
+    <value>副檔名</value>
   </data>
   <data name="ExtensionFilter" xml:space="preserve">
-    <value>Extension Filter</value>
+    <value>副檔名篩選</value>
   </data>
   <data name="ExtraLargeIcons" xml:space="preserve">
-    <value>Extra Large Icons</value>
+    <value>特大圖示</value>
   </data>
   <data name="Forward" xml:space="preserve">
-    <value>Forward to '{0}'</value>
+    <value>前進至「{0}」</value>
   </data>
   <data name="GroupBy" xml:space="preserve">
-    <value>Group By</value>
+    <value>群組依據</value>
   </data>
   <data name="Home" xml:space="preserve">
-    <value>Home</value>
+    <value>首頁</value>
   </data>
   <data name="InvalidFileName" xml:space="preserve">
-    <value>Invalid File Name</value>
+    <value>無效的檔案名稱</value>
   </data>
   <data name="InvalidFileNameMessage" xml:space="preserve">
-    <value>File name can't be empty or contain any of the following characters: \ / : * ? "" &lt; &gt; |</value>
+    <value>檔案名稱不能為空，也不能包含下列任何字元：\ / : * ? "" &lt; &gt; |</value>
   </data>
   <data name="InvertSelection" xml:space="preserve">
-    <value>Invert Selection</value>
+    <value>反向選取</value>
   </data>
   <data name="LargeIcons" xml:space="preserve">
-    <value>Large Icons</value>
+    <value>大圖示</value>
   </data>
   <data name="Layout" xml:space="preserve">
-    <value>Layout</value>
+    <value>配置</value>
   </data>
   <data name="List" xml:space="preserve">
-    <value>List</value>
+    <value>清單</value>
   </data>
   <data name="LoadLayout" xml:space="preserve">
-    <value>Load Layout</value>
+    <value>載入配置</value>
   </data>
   <data name="Mail" xml:space="preserve">
-    <value>Mail</value>
+    <value>郵件</value>
   </data>
   <data name="MediumIcons" xml:space="preserve">
-    <value>Medium Icons</value>
+    <value>中圖示</value>
   </data>
   <data name="MoveTo" xml:space="preserve">
-    <value>Move To</value>
+    <value>移動至</value>
   </data>
   <data name="Name" xml:space="preserve">
-    <value>Name</value>
+    <value>名稱</value>
   </data>
   <data name="NavigationPane" xml:space="preserve">
-    <value>Navigation Pane</value>
+    <value>瀏覽窗格</value>
   </data>
   <data name="New" xml:space="preserve">
-    <value>New</value>
+    <value>新增</value>
   </data>
   <data name="NewFile" xml:space="preserve">
-    <value>New File</value>
+    <value>新檔案</value>
   </data>
   <data name="NewFolder" xml:space="preserve">
-    <value>New Folder</value>
+    <value>新資料夾</value>
   </data>
   <data name="NewName" xml:space="preserve">
-    <value>New Name</value>
+    <value>新名稱</value>
   </data>
   <data name="No" xml:space="preserve">
-    <value>No</value>
+    <value>否</value>
   </data>
   <data name="OK" xml:space="preserve">
-    <value>OK</value>
+    <value>確定</value>
   </data>
   <data name="Organize" xml:space="preserve">
-    <value>Organize</value>
+    <value>組織</value>
   </data>
   <data name="Panes" xml:space="preserve">
-    <value>Panes</value>
+    <value>窗格</value>
   </data>
   <data name="Parent" xml:space="preserve">
-    <value>Parent</value>
+    <value>上層</value>
   </data>
   <data name="Paste" xml:space="preserve">
-    <value>Paste</value>
+    <value>貼上</value>
   </data>
   <data name="Path" xml:space="preserve">
-    <value>Path</value>
+    <value>路徑</value>
   </data>
   <data name="Pattern" xml:space="preserve">
-    <value>Pattern</value>
+    <value>模式</value>
   </data>
   <data name="PermanentlyDelete" xml:space="preserve">
-    <value>Permanently Delete</value>
+    <value>永久刪除</value>
   </data>
   <data name="PinToQuickAccess" xml:space="preserve">
-    <value>Pin To Quick Access</value>
+    <value>釘選至快速存取</value>
   </data>
   <data name="PreviewPane" xml:space="preserve">
-    <value>Preview Pane</value>
+    <value>預覽窗格</value>
   </data>
   <data name="PrintPreview" xml:space="preserve">
-    <value>Print Preview</value>
+    <value>預覽列印</value>
   </data>
   <data name="Properties" xml:space="preserve">
-    <value>Properties</value>
+    <value>內容</value>
   </data>
   <data name="Recycle" xml:space="preserve">
-    <value>Recycle</value>
+    <value>回收</value>
   </data>
   <data name="Refresh" xml:space="preserve">
-    <value>Refresh</value>
+    <value>重新整理</value>
   </data>
   <data name="RemoveCustomColumn" xml:space="preserve">
-    <value>Remove Custom Column</value>
+    <value>移除自訂欄位</value>
   </data>
   <data name="Rename" xml:space="preserve">
-    <value>Rename</value>
+    <value>重新命名</value>
   </data>
   <data name="Row" xml:space="preserve">
-    <value>Row</value>
+    <value>列</value>
   </data>
   <data name="RowsColumns" xml:space="preserve">
-    <value>Rows &amp; Columns</value>
+    <value>列＆欄</value>
   </data>
   <data name="SaveLayout" xml:space="preserve">
-    <value>Save Layout</value>
+    <value>儲存配置</value>
   </data>
   <data name="SearchTitle" xml:space="preserve">
-    <value>Search: {0}</value>
+    <value>搜尋：{0}</value>
   </data>
   <data name="Select" xml:space="preserve">
-    <value>Select</value>
+    <value>選取</value>
   </data>
   <data name="SelectAll" xml:space="preserve">
-    <value>Select All</value>
+    <value>全選</value>
   </data>
   <data name="SelectionFilter" xml:space="preserve">
-    <value>Selection Filter</value>
+    <value>選取範圍篩選</value>
   </data>
   <data name="ItemTypeFilter" xml:space="preserve">
-    <value>Item Type Filter</value>
+    <value>項目類型篩選</value>
   </data>
   <data name="SelectNone" xml:space="preserve">
-    <value>Select None</value>
+    <value>取消全選</value>
   </data>
   <data name="ShowCheckBoxes" xml:space="preserve">
-    <value>Show Check Boxes</value>
+    <value>顯示核取方塊</value>
   </data>
   <data name="ShowFileExtensions" xml:space="preserve">
-    <value>Show File Extensions</value>
+    <value>顯示副檔名</value>
   </data>
   <data name="ShowHiddenItems" xml:space="preserve">
-    <value>Show Hidden Items</value>
+    <value>顯示隱藏項目</value>
   </data>
   <data name="ShowHide" xml:space="preserve">
-    <value>Show / Hide</value>
+    <value>顯示 / 隱藏</value>
   </data>
   <data name="ShowRowNumbers" xml:space="preserve">
-    <value>Show Row Numbers</value>
+    <value>顯示列號</value>
   </data>
   <data name="ShowSystemItems" xml:space="preserve">
-    <value>Show System Items</value>
+    <value>顯示系統項目</value>
   </data>
   <data name="Size" xml:space="preserve">
-    <value>Size</value>
+    <value>大小</value>
   </data>
   <data name="SmallIcons" xml:space="preserve">
-    <value>Small Icons</value>
+    <value>小圖示</value>
   </data>
   <data name="SortBy" xml:space="preserve">
-    <value>Sort By</value>
+    <value>排序依據</value>
   </data>
   <data name="StandardThemes" xml:space="preserve">
-    <value>Standard Themes</value>
+    <value>標準佈景主題</value>
   </data>
   <data name="Themes" xml:space="preserve">
-    <value>Themes</value>
+    <value>佈景主題</value>
   </data>
   <data name="TotalFormat" xml:space="preserve">
-    <value>Total: {0}</value>
+    <value>總計：{0}</value>
   </data>
   <data name="TouchThemes" xml:space="preserve">
-    <value>Touch Themes</value>
+    <value>觸控佈景主題</value>
   </data>
   <data name="Type" xml:space="preserve">
-    <value>Type</value>
+    <value>類型</value>
   </data>
   <data name="UnpinFromQuickAccess" xml:space="preserve">
-    <value>Unpin From Quick Access</value>
+    <value>從快速存取取消釘選</value>
   </data>
   <data name="Up" xml:space="preserve">
-    <value>Up to '{0}'</value>
+    <value>向上移至「{0}」</value>
   </data>
   <data name="View" xml:space="preserve">
-    <value>View</value>
+    <value>檢視</value>
   </data>
   <data name="Yes" xml:space="preserve">
-    <value>Yes</value>
+    <value>是</value>
   </data>
   <data name="Zip" xml:space="preserve">
     <value>Zip</value>
   </data>
   <data name="GroupName" xml:space="preserve">
-    <value>Group Name</value>
+    <value>群組名稱</value>
   </data>
   <data name="NewMenuItem" xml:space="preserve">
-    <value>New Menu Item</value>
+    <value>新增功能表項目</value>
   </data>
   <data name="Edit" xml:space="preserve">
-    <value>Edit</value>
+    <value>編輯</value>
   </data>
   <data name="Password" xml:space="preserve">
-    <value>Password</value>
+    <value>密碼</value>
   </data>
   <data name="Close" xml:space="preserve">
-    <value>Close</value>
+    <value>關閉</value>
   </data>
   <data name="Progress" xml:space="preserve">
-    <value>Progress</value>
+    <value>進度</value>
   </data>
   <data name="Unzip" xml:space="preserve">
-    <value>Unzip</value>
+    <value>解壓縮</value>
   </data>
   <data name="CompressedSize" xml:space="preserve">
-    <value>Compressed Size</value>
+    <value>壓縮後大小</value>
   </data>
   <data name="UncompressedSize" xml:space="preserve">
-    <value>Uncompressed Size</value>
+    <value>原始大小</value>
   </data>
   <data name="WrongPassword" xml:space="preserve">
-    <value>Wrong Password</value>
+    <value>密碼錯誤</value>
   </data>
   <data name="WrongPasswordMessage" xml:space="preserve">
-    <value>Provided password is wrong. Do you want to skip this file?</value>
+    <value>提供的密碼錯誤。您要跳過此檔案嗎？</value>
   </data>
   <data name="OpenContainingFolder" xml:space="preserve">
-    <value>Open Containing Folder</value>
+    <value>開啟包含的資料夾</value>
   </data>
   <data name="Options" xml:space="preserve">
-    <value>Options</value>
+    <value>選項</value>
   </data>
   <data name="General" xml:space="preserve">
-    <value>General</value>
+    <value>一般</value>
   </data>
   <data name="NewTab" xml:space="preserve">
-    <value>New Tab</value>
+    <value>新索引標籤</value>
   </data>
   <data name="CopyMove" xml:space="preserve">
-    <value>Copy &amp; Move</value>
+    <value>複製與移動</value>
   </data>
   <data name="CopyWindows" xml:space="preserve">
-    <value>Copy (Windows Standard)</value>
+    <value>複製 (Windows 標準)</value>
   </data>
   <data name="DragDrop" xml:space="preserve">
-    <value>Drag &amp; Drop</value>
+    <value>拖放</value>
   </data>
   <data name="DragDropDifferentDrive" xml:space="preserve">
-    <value>Drag &amp; Drop to Different Drive</value>
+    <value>拖放至不同磁碟機</value>
   </data>
   <data name="DragDropSameDrive" xml:space="preserve">
-    <value>Drag &amp; Drop to Same Drive</value>
+    <value>拖放至相同磁碟機</value>
   </data>
   <data name="Move" xml:space="preserve">
-    <value>Move</value>
+    <value>移動</value>
   </data>
   <data name="MoveWindows" xml:space="preserve">
-    <value>Move (Windows Standard)</value>
+    <value>移動 (Windows 標準)</value>
   </data>
   <data name="Advanced" xml:space="preserve">
-    <value>Advanced</value>
+    <value>進階</value>
   </data>
   <data name="File" xml:space="preserve">
-    <value>File</value>
+    <value>檔案</value>
   </data>
   <data name="FolderNotFound" xml:space="preserve">
-    <value>Windows can't find the folder specified. Check the spelling and try again.</value>
+    <value>Windows 找不到指定的資料夾。請檢查拼字並再試一次。</value>
   </data>
   <data name="LowerCase" xml:space="preserve">
-    <value>Lower Case</value>
+    <value>小寫</value>
   </data>
   <data name="Multiple" xml:space="preserve">
-    <value>Multiple</value>
+    <value>多個</value>
   </data>
   <data name="SentenceCase" xml:space="preserve">
-    <value>Sentence Case</value>
+    <value>句首大寫</value>
   </data>
   <data name="TitleCase" xml:space="preserve">
-    <value>Title Case</value>
+    <value>標題大寫</value>
   </data>
   <data name="ToggleCase" xml:space="preserve">
-    <value>Toggle Case</value>
+    <value>切換大小寫</value>
   </data>
   <data name="UpperCase" xml:space="preserve">
-    <value>Upper Case</value>
+    <value>大寫</value>
   </data>
   <data name="ColumnName" xml:space="preserve">
-    <value>Column Name</value>
+    <value>欄位名稱</value>
   </data>
   <data name="ColumnType" xml:space="preserve">
-    <value>Column Type</value>
+    <value>欄位類型</value>
   </data>
   <data name="Expression" xml:space="preserve">
-    <value>Expression</value>
+    <value>運算式</value>
   </data>
   <data name="CustomMenuItems" xml:space="preserve">
-    <value>Custom Menu Items</value>
+    <value>自訂功能表項目</value>
   </data>
   <data name="None" xml:space="preserve">
-    <value>None</value>
+    <value>無</value>
   </data>
   <data name="Single" xml:space="preserve">
-    <value>Single</value>
+    <value>單個</value>
   </data>
   <data name="Filter" xml:space="preserve">
-    <value>Filter</value>
+    <value>篩選</value>
   </data>
   <data name="AllSubfolders" xml:space="preserve">
-    <value>All Subfolders</value>
+    <value>所有子資料夾</value>
   </data>
   <data name="CurrentFolder" xml:space="preserve">
-    <value>Current Folder</value>
+    <value>目前資料夾</value>
   </data>
   <data name="SearchFilter" xml:space="preserve">
-    <value>Search &amp; Filter</value>
+    <value>搜尋與篩選</value>
   </data>
   <data name="SearchTools" xml:space="preserve">
-    <value>Search Tools</value>
+    <value>搜尋工具</value>
   </data>
   <data name="CopyAllColumns" xml:space="preserve">
-    <value>Copy to Clipboard (all columns)</value>
+    <value>複製到剪貼簿 (所有欄位)</value>
   </data>
   <data name="CopyThisColumn" xml:space="preserve">
-    <value>Copy to Clipboard (this column)</value>
+    <value>複製到剪貼簿 (此欄位)</value>
   </data>
   <data name="ShowColumnChooser" xml:space="preserve">
-    <value>Show Column Chooser</value>
+    <value>顯示欄位選取器</value>
   </data>
   <data name="AddCustomColumn" xml:space="preserve">
-    <value>Add Custom Column</value>
+    <value>新增自訂欄位</value>
   </data>
   <data name="LayoutLoadError" xml:space="preserve">
-    <value>Layout Load Error</value>
+    <value>配置載入錯誤</value>
   </data>
   <data name="LayoutLoadErrorOccured" xml:space="preserve">
-    <value>An error occurred while loading the layout. Reverted to default layout.</value>
+    <value>載入配置時發生錯誤。已還原為預設配置。</value>
   </data>
   <data name="Customizations" xml:space="preserve">
-    <value>Customizations</value>
+    <value>自訂項</value>
   </data>
   <data name="Folder" xml:space="preserve">
-    <value>Folder</value>
+    <value>資料夾</value>
   </data>
   <data name="LoadDefaultLayout" xml:space="preserve">
-    <value>Load Default Layout</value>
+    <value>載入預設配置</value>
   </data>
   <data name="ManageSavedLayouts" xml:space="preserve">
-    <value>Manage Saved Layouts</value>
+    <value>管理已儲存的配置</value>
   </data>
   <data name="Shortcut" xml:space="preserve">
-    <value>Shortcut</value>
+    <value>捷徑</value>
   </data>
   <data name="LayoutSaved" xml:space="preserve">
-    <value>Layout Saved</value>
+    <value>配置已儲存</value>
   </data>
   <data name="LayoutSaveSuccessful" xml:space="preserve">
-    <value>The layout has been successfully saved.</value>
+    <value>配置已成功儲存。</value>
   </data>
   <data name="RecentLocations" xml:space="preserve">
-    <value>Recent Locations</value>
+    <value>最近的位置</value>
   </data>
   <data name="Location" xml:space="preserve">
-    <value>Location</value>
+    <value>位置</value>
   </data>
   <data name="Open" xml:space="preserve">
-    <value>Open</value>
+    <value>開啟</value>
   </data>
   <data name="OpenInNewTab" xml:space="preserve">
-    <value>Open in New Tab</value>
+    <value>在新索引標籤中開啟</value>
   </data>
   <data name="OpenInNewWindow" xml:space="preserve">
-    <value>Open in New Window</value>
+    <value>在新視窗中開啟</value>
   </data>
   <data name="ManageExpressions" xml:space="preserve">
-    <value>Manage Expressions</value>
+    <value>管理運算式</value>
   </data>
   <data name="OpenWithApplication" xml:space="preserve">
-    <value>Open with Application</value>
+    <value>使用應用程式開啟</value>
   </data>
   <data name="Command" xml:space="preserve">
-    <value>Command</value>
+    <value>指令</value>
   </data>
   <data name="Parameter" xml:space="preserve">
-    <value>Parameter</value>
+    <value>參數</value>
   </data>
   <data name="Exit" xml:space="preserve">
-    <value>Exit</value>
+    <value>結束</value>
   </data>
-  <data name="AddToStartup" xml:space="preserve">
-    <value>Add to Startup</value>
+<data name="AddToStartup" xml:space="preserve">
+    <value>啟動時執行</value>
   </data>
   <data name="Language" xml:space="preserve">
-    <value>Language</value>
+    <value>語言</value>
   </data>
   <data name="Computer" xml:space="preserve">
-    <value>Computer</value>
+    <value>電腦</value>
   </data>
   <data name="QuickAccess" xml:space="preserve">
-    <value>Quick Access</value>
+    <value>快速存取</value>
   </data>
   <data name="ClearSorting" xml:space="preserve">
-    <value>Clear Sorting</value>
+    <value>清除排序</value>
   </data>
   <data name="ParentName" xml:space="preserve">
-    <value>Parent Name</value>
+    <value>上層名稱</value>
   </data>
   <data name="ParentPath" xml:space="preserve">
-    <value>Parent Path</value>
+    <value>上層路徑</value>
   </data>
   <data name="Network" xml:space="preserve">
-    <value>Network</value>
+    <value>網路</value>
   </data>
   <data name="ExpandToOpenFolder" xml:space="preserve">
-    <value>Expand To Open Folder</value>
+    <value>展開至開啟的資料夾</value>
   </data>
   <data name="ShowNavigationPane" xml:space="preserve">
-    <value>Show Navigation Pane</value>
+    <value>顯示瀏覽窗格</value>
   </data>
   <data name="Content" xml:space="preserve">
-    <value>Content</value>
+    <value>內容</value>
   </data>
   <data name="StaticTaskbarIcon" xml:space="preserve">
-    <value>Static Taskbar Icon</value>
+    <value>靜態工作列圖示</value>
   </data>
   <data name="StaticTaskbarTitle" xml:space="preserve">
-    <value>Static Taskbar Title</value>
+    <value>靜態工作列標題</value>
   </data>
   <data name="NoPreviewAvailable" xml:space="preserve">
-    <value>There are no preview extensions registered for this file type</value>
+    <value>沒有為此檔案類型註冊的預覽擴充功能</value>
   </data>
   <data name="Extensions" xml:space="preserve">
-    <value>Extensions</value>
+    <value>擴充功能</value>
   </data>
   <data name="Version" xml:space="preserve">
-    <value>Version</value>
+    <value>版本</value>
   </data>
   <data name="Disabled" xml:space="preserve">
-    <value>Disabled</value>
+    <value>已停用</value>
   </data>
   <data name="Error" xml:space="preserve">
-    <value>Error</value>
+    <value>錯誤</value>
   </data>
   <data name="Preferred" xml:space="preserve">
-    <value>Preferred</value>
+    <value>偏好</value>
   </data>
-  <data name="ExtensionError" xml:space="preserve">
-    <value>This extension contains an error and cannot be enabled. Refer to error details for more information.</value>
+<data name="ExtensionError" xml:space="preserve">
+    <value>此擴充功能包含錯誤，無法啟用。請參閱錯誤詳情以取得更多資訊。</value>
   </data>
   <data name="ErrorDetails" xml:space="preserve">
-    <value>Error Details</value>
+    <value>錯誤詳情</value>
   </data>
   <data name="FileFormatError" xml:space="preserve">
-    <value>The file format is incorrect or the file is corrupt</value>
+    <value>檔案格式不正確或檔案已損壞</value>
   </data>
   <data name="UnifiedSorting" xml:space="preserve">
-    <value>Unified Sorting</value>
+    <value>統一排序</value>
   </data>
   <data name="Virtualization" xml:space="preserve">
-    <value>Virtualization</value>
+    <value>虛擬化</value>
   </data>
   <data name="SupportedFileTypes" xml:space="preserve">
-    <value>Supported File Types</value>
+    <value>支援的檔案類型</value>
   </data>
   <data name="AskBeforeDownloadingUpdates" xml:space="preserve">
-    <value>Ask Before Downloading Updates</value>
+    <value>下載更新前先詢問</value>
   </data>
   <data name="CheckForUpdates" xml:space="preserve">
-    <value>Check for Updates at Startup</value>
+    <value>啟動時檢查更新</value>
   </data>
   <data name="DownloadUpdatesAutomatically" xml:space="preserve">
-    <value>Download Updates Automatically</value>
+    <value>自動下載更新</value>
   </data>
   <data name="UpdateAvailable" xml:space="preserve">
-    <value>A new version of the application is available</value>
+    <value>有新版本的應用程式可用</value>
   </data>
   <data name="Update" xml:space="preserve">
-    <value>Update</value>
+    <value>更新</value>
   </data>
   <data name="Restart" xml:space="preserve">
-    <value>Restart</value>
+    <value>重新啟動</value>
   </data>
-  <data name="RestartRequired" xml:space="preserve">
-    <value>A new version of the application has been downloaded and a restart is required to complete the installation</value>
+<data name="RestartRequired" xml:space="preserve">
+    <value>應用程式的新版本已下載，需要重新啟動以完成安裝</value>
   </data>
   <data name="DownloadInProgress" xml:space="preserve">
-    <value>Downloading a new version of the application</value>
+    <value>正在下載應用程式的新版本</value>
   </data>
   <data name="RestartConfirmation" xml:space="preserve">
-    <value>A new version of the application has been downloaded and a restart is required to complete the installation. Do you want to restart now?</value>
+    <value>應用程式的新版本已下載，需要重新啟動以完成安裝。您要立即重新啟動嗎？</value>
   </data>
   <data name="UpdateConfirmation" xml:space="preserve">
-    <value>A new version of the application is available. Do you want to download and install?</value>
+    <value>有新版本的應用程式可用。您要下載並安裝嗎？</value>
   </data>
   <data name="DownloadUpdates" xml:space="preserve">
-    <value>Download Updates</value>
+    <value>下載更新</value>
   </data>
   <data name="NoUpdateAvailable" xml:space="preserve">
-    <value>No updates are currently available</value>
+    <value>目前沒有可用的更新</value>
   </data>
   <data name="DateTimeFormat" xml:space="preserve">
-    <value>Date and Time Format</value>
+    <value>日期與時間格式</value>
   </data>
   <data name="SaveSession" xml:space="preserve">
-    <value>Save Session on Close</value>
+    <value>關閉時儲存工作階段</value>
   </data>
   <data name="DefaultSearch" xml:space="preserve">
-    <value>Default Search</value>
+    <value>預設搜尋</value>
   </data>
   <data name="SearchWithEverything" xml:space="preserve">
-    <value>Search with Everything</value>
+    <value>使用 Everything 搜尋</value>
   </data>
   <data name="Search" xml:space="preserve">
-    <value>Search</value>
+    <value>搜尋</value>
   </data>
   <data name="HelpSearchWithEverything" xml:space="preserve">
-    <value>Everything is a freeware desktop search utility for Windows that can rapidly find files and folders by name.
-In order this option to be active, Everything (installed or portable version) should be up and running.</value>
+    <value>Everything 是一款 Windows 上的免費桌面搜尋工具，可快速依名稱尋找檔案與資料夾。
+要啟用此選項，需先執行 Everything（安裝版或可攜版）。</value>
   </data>
   <data name="HelpAddToStartup" xml:space="preserve">
-    <value>FileExplorer is added to Windows startup, making the application launch much faster.</value>
+    <value>FileExplorer 會加入 Windows 啟動項目，使應用程式啟動更快速。</value>
   </data>
   <data name="HelpSaveSession" xml:space="preserve">
-    <value>Open windows and tabs are saved when the application is closed and all restored the next time it is opened.</value>
+    <value>當應用程式關閉時，會儲存已開啟的視窗與分頁，並在下次開啟時全部還原。</value>
   </data>
   <data name="HelpStaticTaskbarIcon" xml:space="preserve">
-    <value>By default, the icon of the current folder is shown in the taskbar.
-Enable this option to show a static icon.</value>
+    <value>預設會在工作列顯示目前資料夾的圖示。
+啟用此選項以顯示固定圖示。</value>
   </data>
   <data name="HelpStaticTaskbarTitle" xml:space="preserve">
-    <value>By default, the name of the current folder is shown in the taskbar.
-Enable this option to show a static title.</value>
+    <value>預設會在工作列顯示目前資料夾的名稱。
+啟用此選項以顯示固定標題。</value>
   </data>
   <data name="HelpUnifiedSorting" xml:space="preserve">
-    <value>Regardless of the sorting column, FileExplorer always sorts folders first and files second.
-Enable this option to sort them all together.</value>
+    <value>無論排序欄位為何，FileExplorer 會先排序資料夾，再排序檔案。
+啟用此選項可將兩者一併排序。</value>
   </data>
   <data name="HelpVirtualization" xml:space="preserve">
-    <value>Virtualization improves performance when scrolling the contents of folders containing large numbers of files or folders.
-When scrolling, the blur effect is shown while files and folders are loading in the background.</value>
+    <value>虛擬化可在瀏覽包含大量檔案或資料夾時提升效能。
+捲動時，檔案與資料夾會在背景載入，並顯示模糊效果。</value>
   </data>
   <data name="Expand" xml:space="preserve">
-    <value>Expand</value>
+    <value>展開</value>
   </data>
   <data name="Level" xml:space="preserve">
-    <value>Level</value>
+    <value>層級</value>
   </data>
   <data name="SelectedFromat" xml:space="preserve">
-    <value>Selected: {0}</value>
+    <value>已選取：{0}</value>
   </data>
   <data name="FrameWidth" xml:space="preserve">
-    <value>Image/Video Width</value>
+    <value>影像/影片寬度</value>
   </data>
   <data name="FrameHeight" xml:space="preserve">
-    <value>Image/Video Height</value>
+    <value>影像/影片高度</value>
   </data>
   <data name="Duration" xml:space="preserve">
-    <value>Duration</value>
+    <value>長度</value>
   </data>
   <data name="AudioBitrate" xml:space="preserve">
-    <value>Audio Bitrate</value>
+    <value>音訊位元率</value>
   </data>
   <data name="AudioChannels" xml:space="preserve">
-    <value>Audio Channels</value>
+    <value>音訊聲道</value>
   </data>
   <data name="AudioSampleRate" xml:space="preserve">
-    <value>Audio Sample Rate</value>
+    <value>音訊取樣率</value>
   </data>
   <data name="Album" xml:space="preserve">
-    <value>Album</value>
+    <value>專輯</value>
   </data>
   <data name="Title" xml:space="preserve">
-    <value>Title</value>
+    <value>標題</value>
   </data>
   <data name="Genre" xml:space="preserve">
-    <value>Genre</value>
+    <value>類型</value>
   </data>
   <data name="AlbumArtists" xml:space="preserve">
-    <value>Album Artists</value>
+    <value>專輯演出者</value>
   </data>
   <data name="ContributingArtists" xml:space="preserve">
-    <value>Contributing Artists</value>
+    <value>參與演出者</value>
   </data>
   <data name="Composers" xml:space="preserve">
-    <value>Composers</value>
+    <value>作曲者</value>
   </data>
   <data name="Year" xml:space="preserve">
-    <value>Year</value>
+    <value>年份</value>
   </data>
   <data name="Track" xml:space="preserve">
-    <value>Track</value>
+    <value>曲目</value>
   </data>
   <data name="TrackCount" xml:space="preserve">
-    <value>Track Count</value>
+    <value>曲目數</value>
   </data>
   <data name="Width" xml:space="preserve">
-    <value>Width</value>
+    <value>寬度</value>
   </data>
   <data name="Height" xml:space="preserve">
-    <value>Height</value>
+    <value>高度</value>
   </data>
   <data name="Thumbnails" xml:space="preserve">
-    <value>Thumbnails</value>
+    <value>縮圖</value>
   </data>
   <data name="Mode" xml:space="preserve">
-    <value>Mode</value>
+    <value>模式</value>
   </data>
   <data name="Focus" xml:space="preserve">
-    <value>Focus</value>
+    <value>焦點</value>
   </data>
   <data name="Crop" xml:space="preserve">
-    <value>Crop</value>
+    <value>裁切</value>
   </data>
   <data name="Stretch" xml:space="preserve">
-    <value>Stretch</value>
+    <value>拉伸</value>
   </data>
   <data name="Contain" xml:space="preserve">
-    <value>Contain</value>
+    <value>等比例縮放</value>
   </data>
   <data name="CropDescription" xml:space="preserve">
-    <value>Crop the image if necessary to preserve the aspect ratio</value>
+    <value>必要時裁切影像以維持長寬比</value>
   </data>
   <data name="ContainDescription" xml:space="preserve">
-    <value>Reduce one of the output dimensions if necessary to preserve the aspect ratio</value>
+    <value>必要時縮小其中一個輸出尺寸以維持長寬比</value>
   </data>
   <data name="StretchDescription" xml:space="preserve">
-    <value>Stretch the image on one axis if necessary to fill the output dimensions</value>
+    <value>必要時在單一軸向拉伸影像以填滿輸出尺寸</value>
   </data>
   <data name="Top" xml:space="preserve">
-    <value>Top</value>
+    <value>上</value>
   </data>
   <data name="Bottom" xml:space="preserve">
-    <value>Bottom</value>
+    <value>下</value>
   </data>
   <data name="Left" xml:space="preserve">
-    <value>Left</value>
+    <value>左</value>
   </data>
   <data name="Right" xml:space="preserve">
-    <value>Right</value>
+    <value>右</value>
   </data>
   <data name="Center" xml:space="preserve">
-    <value>Center</value>
+    <value>置中</value>
   </data>
   <data name="TopLeft" xml:space="preserve">
-    <value>Top Left</value>
+    <value>左上</value>
   </data>
   <data name="TopRight" xml:space="preserve">
-    <value>Top Right</value>
+    <value>右上</value>
   </data>
   <data name="BottomLeft" xml:space="preserve">
-    <value>Bottom Left</value>
+    <value>左下</value>
   </data>
   <data name="BottomRight" xml:space="preserve">
-    <value>Bottom Right</value>
+    <value>右下</value>
   </data>
   <data name="Help" xml:space="preserve">
-    <value>Help</value>
+    <value>說明</value>
   </data>
   <data name="Prefix" xml:space="preserve">
-    <value>Prefix</value>
+    <value>前綴</value>
   </data>
   <data name="Suffix" xml:space="preserve">
-    <value>Suffix</value>
+    <value>後綴</value>
   </data>
   <data name="ConfirmBeforeRun" xml:space="preserve">
-    <value>Confirm Before Run</value>
+    <value>執行前確認</value>
   </data>
   <data name="WorkingDirectory" xml:space="preserve">
-    <value>Working Directory</value>
+    <value>工作目錄</value>
   </data>
   <data name="RunCommand" xml:space="preserve">
-    <value>Run Command</value>
+    <value>執行命令</value>
   </data>
   <data name="SaveSelection" xml:space="preserve">
-    <value>Save Selection</value>
+    <value>儲存選取</value>
   </data>
   <data name="RestoreSelection" xml:space="preserve">
-    <value>Restore Selection</value>
+    <value>還原選取</value>
   </data>
   <data name="AutoRestoreSelection" xml:space="preserve">
-    <value>Auto Restore Selection</value>
+    <value>自動還原選取</value>
   </data>
   <data name="DateDeleted" xml:space="preserve">
-    <value>Date Deleted</value>
+    <value>刪除日期</value>
   </data>
   <data name="OriginalLocation" xml:space="preserve">
-    <value>Original Location</value>
+    <value>原始位置</value>
   </data>
   <data name="RecycleBin" xml:space="preserve">
-    <value>Recycle Bin</value>
+    <value>資源回收筒</value>
   </data>
   <data name="EmptyRecycleBin" xml:space="preserve">
-    <value>Empty Recycle Bin</value>
+    <value>清空資源回收筒</value>
   </data>
   <data name="Restore" xml:space="preserve">
-    <value>Restore</value>
+    <value>還原</value>
   </data>
   <data name="RestoreAll" xml:space="preserve">
-    <value>Restore All</value>
+    <value>全部還原</value>
   </data>
   <data name="Text" xml:space="preserve">
-    <value>Text</value>
+    <value>文字</value>
   </data>
   <data name="Integer" xml:space="preserve">
-    <value>Integer</value>
+    <value>整數</value>
   </data>
   <data name="Decimal" xml:space="preserve">
-    <value>Decimal</value>
+    <value>小數</value>
   </data>
   <data name="DateTime" xml:space="preserve">
-    <value>Date &amp; Time</value>
+    <value>日期與時間</value>
   </data>
   <data name="Boolean" xml:space="preserve">
-    <value>True / False</value>
+    <value>真 / 假</value>
   </data>
   <data name="Selection" xml:space="preserve">
-    <value>Selection</value>
+    <value>選取</value>
   </data>
   <data name="RecycleBinProperties" xml:space="preserve">
-    <value>Recycle Bin Properties</value>
+    <value>資源回收筒內容</value>
   </data>
   <data name="Manage" xml:space="preserve">
-    <value>Manage</value>
+    <value>管理</value>
   </data>
   <data name="RestoreSelected" xml:space="preserve">
-    <value>Restore Selected</value>
+    <value>還原選取的項目</value>
   </data>
   <data name="ShowErrors" xml:space="preserve">
-    <value>Show Errors</value>
+    <value>顯示錯誤</value>
   </data>
 </root>
